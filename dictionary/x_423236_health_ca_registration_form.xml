@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Registration form" max_length="40" name="x_423236_health_ca_registration_form" type="collection">
+        <element label="Domain" max_length="32" name="domain" type="domain_id"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" max_length="40" name="gender" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Female" value="02"/>
+                <element inactive_on_update="false" label="Male" value="01"/>
+                <element inactive_on_update="false" label="Other" value="03"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="ID" mandatory="true" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="case_sensitive=true" label="Domain Path" max_length="255" name="sys_domain_path" type="domain_path"/>
+        <element label="Future Appointment" max_length="40" name="u_boolean_1" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" max_length="40" name="u_calendar_date_time_2" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Appointment time" max_length="40" name="u_calendar_date_time_5" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Cardiologist" sequence="0" value="cardiologist"/>
+                <element inactive_on_update="false" label="Family Physician" sequence="1" value="family physician"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Facility" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Ambulance" sequence="0" value="ambulance"/>
+                <element inactive_on_update="false" label="Doctor" sequence="1" value="doctor"/>
+                <element inactive_on_update="false" label="Laboratory" sequence="2" value="laboratory"/>
+                <element inactive_on_update="false" label="Blood Bank" sequence="3" value="blood bank"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Doctor" max_length="40" name="u_choice_4" reference="sys_user" type="reference">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Emergency Type" max_length="40" name="u_choice_5" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Accident" sequence="0" value="accident"/>
+                <element inactive_on_update="false" label="Serious" sequence="1" value="serious"/>
+                <element inactive_on_update="false" label="Moderate" sequence="2" value="moderate"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Test Type" max_length="40" name="u_choice_6" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Blood test" sequence="0" value="blood test"/>
+                <element inactive_on_update="false" label="Urine test" sequence="1" value="urine test"/>
+                <element inactive_on_update="false" label="X-ray" sequence="2" value="x-ray"/>
+                <element inactive_on_update="false" label="Sonography" sequence="3" value="sonography"/>
+            </choice>
+        </element>
+        <element label="Email" max_length="40" name="u_email_1" type="email"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="u_glide_date_time_3" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Discription" max_length="80" name="u_string_1" type="string"/>
+        <index name="index">
+            <element name="domain"/>
+        </index>
+        <index name="index2">
+            <element name="sys_domain_path"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

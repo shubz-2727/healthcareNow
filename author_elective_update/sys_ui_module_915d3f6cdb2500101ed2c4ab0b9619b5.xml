@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Doctor's module">555d3f6cdb2500101ed2c4ab0b9619b2</application>
+        <filter/>
+        <name>Doctor infos</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_423236_health_ca.admin</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 08:16:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>915d3f6cdb2500101ed2c4ab0b9619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Doctor infos</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_update_name>sys_ui_module_915d3f6cdb2500101ed2c4ab0b9619b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 08:16:26</sys_updated_on>
+        <table>x_423236_health_ca_doctor_info</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+        <file_path/>
+        <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+        <instance_name>dev93413</instance_name>
+        <name>sys_ui_module_915d3f6cdb2500101ed2c4ab0b9619b5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Doctor's module">555d3f6cdb2500101ed2c4ab0b9619b2</application><filter/><name>Doctor infos</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_423236_health_ca.admin</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 08:16:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>915d3f6cdb2500101ed2c4ab0b9619b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Doctor infos</sys_name><sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package><sys_policy/><sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope><sys_update_name>sys_ui_module_915d3f6cdb2500101ed2c4ab0b9619b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 08:16:26</sys_updated_on><table>x_423236_health_ca_doctor_info</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1871098506</payload_hash>
+        <record_name>Doctor infos</record_name>
+        <reverted_from/>
+        <source>29e99b24dba100101ed2c4ab0b9619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 08:16:26</sys_created_on>
+        <sys_id>9d5d3f6cdb2500101ed2c4ab0b9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecad4fc720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 08:16:26</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d55d3f6c20250010a537f2b75221c4b7</update_guid>
+        <update_guid_history>d55d3f6c20250010a537f2b75221c4b7:-1871098506</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 08:19:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>05203f81a502489ab70b06cb78c92fa4</sys_id>
+        <sys_metadata>915d3f6cdb2500101ed2c4ab0b9619b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Doctor infos</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+        <sys_update_name>sys_ui_module_915d3f6cdb2500101ed2c4ab0b9619b5</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_915d3f6cdb2500101ed2c4ab0b9619b5">9d5d3f6cdb2500101ed2c4ab0b9619b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 08:19:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

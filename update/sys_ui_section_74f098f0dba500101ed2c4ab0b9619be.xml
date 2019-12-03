@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Laboratory Facility" section_id="74f098f0dba500101ed2c4ab0b9619be" sys_domain="global" table="x_423236_health_ca_registration_form" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_6</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 09:42:09</sys_created_on>
+            <sys_id>09f0d8f0dba500101ed2c4ab0b961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Laboratory Facility" display_value="Laboratory Facility" name="x_423236_health_ca_registration_form" sys_domain="global" view="Default view">74f098f0dba500101ed2c4ab0b9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 09:42:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 09:42:09</sys_created_on>
+            <sys_id>89f0d8f0dba500101ed2c4ab0b961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Laboratory Facility" display_value="Laboratory Facility" name="x_423236_health_ca_registration_form" sys_domain="global" view="Default view">74f098f0dba500101ed2c4ab0b9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 09:42:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Laboratory Facility</caption>
+            <header>false</header>
+            <name>x_423236_health_ca_registration_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 09:42:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74f098f0dba500101ed2c4ab0b9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Laboratory Facility</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+            <sys_update_name>sys_ui_section_74f098f0dba500101ed2c4ab0b9619be</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 09:42:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

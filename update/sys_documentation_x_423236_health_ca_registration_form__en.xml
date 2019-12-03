@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Registration form" language="en" table="x_423236_health_ca_registration_form">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Registration form</label>
+            <language>en</language>
+            <name>x_423236_health_ca_registration_form</name>
+            <plural>Registration forms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 06:06:54</sys_created_on>
+            <sys_id>c4bf132cdba100101ed2c4ab0b961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Registration form</sys_name>
+            <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+            <sys_update_name>sys_documentation_x_423236_health_ca_registration_form__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 06:06:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
