@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_423236_health_ca_registration_form" label="Patient Diagnose report" max_length="40" name="x_423236_health_ca_patient_diagnose_report" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="500" name="u_string_2" type="string"/>
+    <element extends="x_423236_health_ca_registration_form_1" label="Patient Diagnose Report" max_length="40" name="x_423236_health_ca_patient_diagnose_report" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Report" max_length="1000" name="u_string_1" type="string"/>
     </element>
 </database>

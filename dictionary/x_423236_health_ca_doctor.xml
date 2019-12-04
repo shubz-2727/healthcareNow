@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Doctor" max_length="40" name="x_423236_health_ca_doctor" type="collection">
+        <element label="Email" max_length="40" name="email" type="email"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element attributes="ignore_filter_on_new=false" default="javascript:global.getNextObjNumberPadded();" display="true" label="Id" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

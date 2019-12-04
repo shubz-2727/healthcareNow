@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Register" section_id="fb95e4f8dbe500101ed2c4ab0b96198e" sys_domain="global" table="x_423236_health_ca_patient_diagnose_report" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 11:17:14</sys_created_on>
+            <sys_id>f5b6e83cdbe500101ed2c4ab0b961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Register" display_value="Register" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">fb95e4f8dbe500101ed2c4ab0b96198e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 11:17:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 11:17:14</sys_created_on>
+            <sys_id>79b6e83cdbe500101ed2c4ab0b961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Register" display_value="Register" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">fb95e4f8dbe500101ed2c4ab0b96198e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 11:17:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Register</caption>
+            <header>false</header>
+            <name>x_423236_health_ca_patient_diagnose_report</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 11:12:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb95e4f8dbe500101ed2c4ab0b96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Register</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+            <sys_update_name>sys_ui_section_fb95e4f8dbe500101ed2c4ab0b96198e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 11:12:27</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+        <file_path/>
+        <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+        <instance_name>dev93413</instance_name>
+        <name>sys_ui_section_fb95e4f8dbe500101ed2c4ab0b96198e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Register" section_id="fb95e4f8dbe500101ed2c4ab0b96198e" sys_domain="global" table="x_423236_health_ca_patient_diagnose_report" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 11:17:14</sys_created_on><sys_id>f5b6e83cdbe500101ed2c4ab0b961964</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Register" display_value="Register" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">fb95e4f8dbe500101ed2c4ab0b96198e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 11:17:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 11:17:14</sys_created_on><sys_id>79b6e83cdbe500101ed2c4ab0b961964</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Register" display_value="Register" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">fb95e4f8dbe500101ed2c4ab0b96198e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 11:17:14</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Register</caption><header>false</header><name>x_423236_health_ca_patient_diagnose_report</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 11:12:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fb95e4f8dbe500101ed2c4ab0b96198e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Register</sys_name><sys_overrides/><sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package><sys_policy/><sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope><sys_update_name>sys_ui_section_fb95e4f8dbe500101ed2c4ab0b96198e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 11:12:27</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1148980305</payload_hash>
+        <record_name>Patient Diagnose report</record_name>
+        <reverted_from/>
+        <source>29e99b24dba100101ed2c4ab0b9619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 11:17:14</sys_created_on>
+        <sys_id>f1b6e83cdbe500101ed2c4ab0b961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecb7a84b60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 11:17:14</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f9b6e83ca6e500105e842ccb209ac765</update_guid>
+        <update_guid_history>f9b6e83ca6e500105e842ccb209ac765:-1148980305,3395e4f80fe50010303c21f42263b891:1404022542</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 06:38:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>67b0da777257416ab049b4fd0b9eedc4</sys_id>
+        <sys_metadata>fb95e4f8dbe500101ed2c4ab0b96198e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Register</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_parent display_value="">a84520f8dbe500101ed2c4ab0b961913</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+        <sys_update_name>sys_ui_section_fb95e4f8dbe500101ed2c4ab0b96198e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_fb95e4f8dbe500101ed2c4ab0b96198e">f1b6e83cdbe500101ed2c4ab0b961966</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 06:38:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="37956c78dbe500101ed2c4ab0b9619de" sys_domain="global" table="x_423236_health_ca_patient_diagnose_report" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 11:12:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b95e4f8dbe500101ed2c4ab0b961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form>
+            <sys_ui_section caption="Register" display_value="Register" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">fb95e4f8dbe500101ed2c4ab0b96198e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 11:12:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 11:12:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f395e4f8dbe500101ed2c4ab0b9619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form>
+            <sys_ui_section caption="Patient details" display_value="Patient details" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">ff95e4f8dbe500101ed2c4ab0b9619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 11:12:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 11:12:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb95e4f8dbe500101ed2c4ab0b9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form>
+            <sys_ui_section caption="Doctor Facility" display_value="Doctor Facility" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">7f95e4f8dbe500101ed2c4ab0b961991</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 11:12:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 11:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fdb6e83cdbe500101ed2c4ab0b96194b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form>
+            <sys_ui_section caption="Diagnosis" display_value="Diagnosis" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">69b6a83cdbe500101ed2c4ab0b9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 11:17:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 11:12:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b395e4f8dbe500101ed2c4ab0b9619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form>
+            <sys_ui_section caption="Laboratory Facility" display_value="Laboratory Facility" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">f795e4f8dbe500101ed2c4ab0b9619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 11:12:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 11:12:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7395e4f8dbe500101ed2c4ab0b96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">fb95e4f8dbe500101ed2c4ab0b961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 11:12:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_423236_health_ca_patient_diagnose_report</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 11:12:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37956c78dbe500101ed2c4ab0b9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_423236_health_ca_patient_diagnose_report</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+            <sys_update_name>sys_ui_form_sections_37956c78dbe500101ed2c4ab0b9619de</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 11:12:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+        <file_path/>
+        <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+        <instance_name>dev93413</instance_name>
+        <name>sys_ui_form_sections_37956c78dbe500101ed2c4ab0b9619de</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="37956c78dbe500101ed2c4ab0b9619de" sys_domain="global" table="x_423236_health_ca_patient_diagnose_report" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 11:12:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7b95e4f8dbe500101ed2c4ab0b961991</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form><sys_ui_section caption="Register" display_value="Register" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">fb95e4f8dbe500101ed2c4ab0b96198e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 11:12:27</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 11:12:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f395e4f8dbe500101ed2c4ab0b9619a5</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form><sys_ui_section caption="Patient details" display_value="Patient details" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">ff95e4f8dbe500101ed2c4ab0b9619a1</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 11:12:27</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 11:12:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fb95e4f8dbe500101ed2c4ab0b9619a1</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form><sys_ui_section caption="Doctor Facility" display_value="Doctor Facility" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">7f95e4f8dbe500101ed2c4ab0b961991</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 11:12:27</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 11:17:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fdb6e83cdbe500101ed2c4ab0b96194b</sys_id><sys_mod_count>1</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form><sys_ui_section caption="Diagnosis" display_value="Diagnosis" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">69b6a83cdbe500101ed2c4ab0b9619fb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 11:17:14</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 11:12:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b395e4f8dbe500101ed2c4ab0b9619a8</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form><sys_ui_section caption="Laboratory Facility" display_value="Laboratory Facility" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">f795e4f8dbe500101ed2c4ab0b9619a5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 11:12:27</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 11:12:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7395e4f8dbe500101ed2c4ab0b96198b</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_423236_health_ca_patient_diagnose_report" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">37956c78dbe500101ed2c4ab0b9619de</sys_ui_form><sys_ui_section caption="Comments" display_value="Comments" name="x_423236_health_ca_patient_diagnose_report" sys_domain="global" view="Default view">fb95e4f8dbe500101ed2c4ab0b961987</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 11:12:27</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_423236_health_ca_patient_diagnose_report</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 11:12:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>37956c78dbe500101ed2c4ab0b9619de</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_423236_health_ca_patient_diagnose_report</sys_name><sys_overrides/><sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package><sys_policy/><sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope><sys_update_name>sys_ui_form_sections_37956c78dbe500101ed2c4ab0b9619de</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 11:12:27</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>1484229946</payload_hash>
+        <record_name>Patient Diagnose report</record_name>
+        <reverted_from/>
+        <source>29e99b24dba100101ed2c4ab0b9619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 11:17:14</sys_created_on>
+        <sys_id>b5b6e83cdbe500101ed2c4ab0b961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecb7a838d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 11:17:14</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>bdb6e83cabe50010d02b3e06df2af050</update_guid>
+        <update_guid_history>bdb6e83cabe50010d02b3e06df2af050:1484229946,b9b6e83cc7e5001020dd52c66a21634d:1195079363,39b6e83cf7e500109953ae57e0808647:-1083241554,bb95e4f807e50010304fd0ba9bb4d2a9:-275938170,3f95e4f868e5001039426fdfe5e9ce86:-1945307236</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 06:38:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>10cd5156b9bc40ec838cab86449f6724</sys_id>
+        <sys_metadata>37956c78dbe500101ed2c4ab0b9619de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_423236_health_ca_patient_diagnose_report</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_parent display_value="">a84520f8dbe500101ed2c4ab0b961913</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_37956c78dbe500101ed2c4ab0b9619de</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_37956c78dbe500101ed2c4ab0b9619de">b5b6e83cdbe500101ed2c4ab0b961951</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 06:38:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

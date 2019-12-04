@@ -1,62 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_6" table="x_423236_health_ca_registration_form" version="3">
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_6</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Blood test</label>
-            <language>en</language>
-            <name>x_423236_health_ca_registration_form</name>
-            <sequence>0</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-03 09:42:09</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>01f0d8f0dba500101ed2c4ab0b961910</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-03 09:42:09</sys_updated_on>
-            <value>blood test</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_6</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Urine test</label>
-            <language>en</language>
-            <name>x_423236_health_ca_registration_form</name>
-            <sequence>1</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-03 09:42:09</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>41f0d8f0dba500101ed2c4ab0b961911</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-03 09:42:09</sys_updated_on>
-            <value>urine test</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_6</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>X-ray</label>
-            <language>en</language>
-            <name>x_423236_health_ca_registration_form</name>
-            <sequence>2</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-03 09:42:09</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>cdf0d8f0dba500101ed2c4ab0b961911</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-03 09:42:09</sys_updated_on>
-            <value>x-ray</value>
-        </sys_choice>
+    <sys_choice action="DELETE" field="u_choice_6" table="x_423236_health_ca_registration_form" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_choice_6</element>
@@ -93,4 +36,49 @@
             <sys_updated_on>2019-12-03 09:42:09</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+        <file_path/>
+        <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+        <instance_name>dev93413</instance_name>
+        <name>sys_choice_x_423236_health_ca_registration_form_u_choice_6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="u_choice_6" table="x_423236_health_ca_registration_form" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_choice_6</element><hint/><inactive>false</inactive><label>Sonography</label><language>en</language><name>x_423236_health_ca_registration_form</name><sequence>3</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 09:42:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4df0d8f0dba500101ed2c4ab0b961912</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 09:42:09</sys_updated_on><value>sonography</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>u_choice_6</element><name>x_423236_health_ca_registration_form</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 09:42:09</sys_created_on><sys_id>49f0d8f0dba500101ed2c4ab0b961910</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_choice_6</sys_name><sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package><sys_policy/><sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope><sys_update_name>sys_choice_x_423236_health_ca_registration_form_u_choice_6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 09:42:09</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>557895074</payload_hash>
+        <record_name>x_423236_health_ca_registration_form.u_choice_6</record_name>
+        <reverted_from/>
+        <source>29e99b24dba100101ed2c4ab0b9619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 06:38:57</sys_created_on>
+        <sys_id>0790f089db6940101ed2c4ab0b96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecfa218160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 06:38:57</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>4f90f0895e694010f16dded5f9c94429</update_guid>
+        <update_guid_history>4f90f0895e694010f16dded5f9c94429:557895074,8f90f0896c69401077d6dacd2357cc26:-1512259252,cf90f089e169401099cdff0204723c23:830301029,c5f0d8f01da500102dedf80fc11d9014:292640817</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 06:38:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>49f0d8f0dba500101ed2c4ab0b961910</sys_id>
+        <sys_metadata>49f0d8f0dba500101ed2c4ab0b961910</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_6</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+        <sys_update_name>sys_choice_x_423236_health_ca_registration_form_u_choice_6</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_423236_health_ca_registration_form_u_choice_6">0790f089db6940101ed2c4ab0b96192a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 06:38:57</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>

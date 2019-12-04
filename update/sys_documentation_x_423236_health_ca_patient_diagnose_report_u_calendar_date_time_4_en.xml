@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_calendar_date_time_4" label="Appointment(u_calendar_date_time_4)" language="en" table="x_423236_health_ca_patient_diagnose_report">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_calendar_date_time_4</element>
+            <help/>
+            <hint/>
+            <label>Appointment(u_calendar_date_time_4)</label>
+            <language>en</language>
+            <name>x_423236_health_ca_patient_diagnose_report</name>
+            <plural>Appointment(u_calendar_date_time_4)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 06:59:43</sys_created_on>
+            <sys_id>9b553001dba940101ed2c4ab0b961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Appointment(u_calendar_date_time_4)</sys_name>
+            <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+            <sys_update_name>sys_documentation_x_423236_health_ca_patient_diagnose_report_u_calendar_date_time_4_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 06:59:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Registration Form" max_length="40" name="x_423236_health_ca_registration_form_1" type="collection">
+        <element label="Email" max_length="100" name="email" type="email"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="female"/>
+                <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
+            </choice>
+        </element>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Future appointment" max_length="40" name="u_boolean_5" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" max_length="40" name="u_calendar_date_time_1" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Appointment" max_length="40" name="u_calendar_date_time_4" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Appointment" max_length="40" name="u_calendar_date_time_6" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="doctor" label="Facility" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Laboratory" sequence="0" value="laboratory"/>
+                <element inactive_on_update="false" label="Doctor" sequence="1" value="doctor"/>
+                <element inactive_on_update="false" label="Ambulance" sequence="2" value="ambulance"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="cardiologist" sequence="0" value="cardiologist"/>
+                <element inactive_on_update="false" label="family physician" sequence="1" value="family physician"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Emergency type" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Accident" sequence="0" value="accident"/>
+                <element inactive_on_update="false" label="Serious" sequence="1" value="serious"/>
+                <element inactive_on_update="false" label="Moderate" sequence="2" value="moderate"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Test" max_length="40" name="u_choice_7" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Blood test" sequence="0" value="blood test"/>
+                <element inactive_on_update="false" label="Urine test" sequence="1" value="urine test"/>
+                <element inactive_on_update="false" label="X-ray" sequence="2" value="x-ray"/>
+                <element inactive_on_update="false" label="Sonogrophy" sequence="3" value="sonogrophy"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" dependent="u_choice_2" dependent_on_field="u_choice_2" label="Doctor" max_length="32" name="u_reference_3" reference="sys_user" type="reference" use_dependent_field="true"/>
+    </element>
+</database>

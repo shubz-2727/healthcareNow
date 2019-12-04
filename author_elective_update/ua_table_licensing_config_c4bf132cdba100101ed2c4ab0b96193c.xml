@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_423236_health_ca_registration_form</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 06:06:54</sys_created_on>
+        <sys_id>c4bf132cdba100101ed2c4ab0b96193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_423236_health_ca_registration_form</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_update_name>ua_table_licensing_config_c4bf132cdba100101ed2c4ab0b96193c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 06:06:54</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+        <file_path/>
+        <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+        <instance_name>dev93413</instance_name>
+        <name>ua_table_licensing_config_c4bf132cdba100101ed2c4ab0b96193c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_423236_health_ca_registration_form</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 06:06:54</sys_created_on><sys_id>c4bf132cdba100101ed2c4ab0b96193c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_423236_health_ca_registration_form</sys_name><sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package><sys_policy/><sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope><sys_update_name>ua_table_licensing_config_c4bf132cdba100101ed2c4ab0b96193c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 06:06:54</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-1048525908</payload_hash>
+        <record_name>x_423236_health_ca_registration_form</record_name>
+        <reverted_from/>
+        <source>29e99b24dba100101ed2c4ab0b9619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 06:06:54</sys_created_on>
+        <sys_id>48bf132cdba100101ed2c4ab0b96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16eca5e67d30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 06:06:54</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>80bf132cc0a10010c117d7ee9fdb673e</update_guid>
+        <update_guid_history>80bf132cc0a10010c117d7ee9fdb673e:-1048525908</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 06:38:57</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>14dfe6f5681d43fc811bce9b4968d639</sys_id>
+        <sys_metadata>c4bf132cdba100101ed2c4ab0b96193c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_423236_health_ca_registration_form</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_c4bf132cdba100101ed2c4ab0b96193c</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_c4bf132cdba100101ed2c4ab0b96193c">48bf132cdba100101ed2c4ab0b96193e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 06:38:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

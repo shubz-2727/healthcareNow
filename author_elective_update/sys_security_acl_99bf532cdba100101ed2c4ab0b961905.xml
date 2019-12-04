@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_423236_health_ca_registration_form</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 06:06:59</sys_created_on>
+        <sys_id>99bf532cdba100101ed2c4ab0b961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_423236_health_ca_registration_form</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_update_name>sys_security_acl_99bf532cdba100101ed2c4ab0b961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 06:06:59</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+        <file_path/>
+        <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+        <instance_name>dev93413</instance_name>
+        <name>sys_security_acl_99bf532cdba100101ed2c4ab0b961905</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_423236_health_ca_registration_form</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 06:06:59</sys_created_on><sys_id>99bf532cdba100101ed2c4ab0b961905</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_423236_health_ca_registration_form</sys_name><sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package><sys_policy/><sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope><sys_update_name>sys_security_acl_99bf532cdba100101ed2c4ab0b961905</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 06:06:59</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-165047685</payload_hash>
+        <record_name>x_423236_health_ca_registration_form</record_name>
+        <reverted_from/>
+        <source>29e99b24dba100101ed2c4ab0b9619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 06:06:59</sys_created_on>
+        <sys_id>9dbf532cdba100101ed2c4ab0b961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16eca5e7b410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 06:06:59</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>d5bf532c8fa1001009b58e07538a0c07</update_guid>
+        <update_guid_history>d5bf532c8fa1001009b58e07538a0c07:-165047685</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 06:38:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>01c417e53c834af4800e602e0ade0210</sys_id>
+        <sys_metadata>99bf532cdba100101ed2c4ab0b961905</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_423236_health_ca_registration_form</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_parent display_value="">04bf132cdba100101ed2c4ab0b961921</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+        <sys_update_name>sys_security_acl_99bf532cdba100101ed2c4ab0b961905</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_99bf532cdba100101ed2c4ab0b961905">9dbf532cdba100101ed2c4ab0b961907</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 06:38:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

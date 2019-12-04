@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Comments" section_id="8971f4c9db6940101ed2c4ab0b96196e" sys_domain="global" table="x_423236_health_ca_doctor_info" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 06:42:38</sys_created_on>
+            <sys_id>0971f4c9db6940101ed2c4ab0b96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971f4c9db6940101ed2c4ab0b96196e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 06:42:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 06:42:38</sys_created_on>
+            <sys_id>8971f4c9db6940101ed2c4ab0b96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971f4c9db6940101ed2c4ab0b96196e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 06:42:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 06:42:38</sys_created_on>
+            <sys_id>0d71f4c9db6940101ed2c4ab0b96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971f4c9db6940101ed2c4ab0b96196e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 06:42:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Comments</caption>
+            <header>false</header>
+            <name>x_423236_health_ca_doctor_info</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 06:42:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8971f4c9db6940101ed2c4ab0b96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Comments</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+            <sys_update_name>sys_ui_section_8971f4c9db6940101ed2c4ab0b96196e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 06:42:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+        <file_path/>
+        <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+        <instance_name>dev93413</instance_name>
+        <name>sys_ui_section_8971f4c9db6940101ed2c4ab0b96196e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Comments" section_id="8971f4c9db6940101ed2c4ab0b96196e" sys_domain="global" table="x_423236_health_ca_doctor_info" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 06:42:38</sys_created_on><sys_id>0971f4c9db6940101ed2c4ab0b96196f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Comments" display_value="Comments" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971f4c9db6940101ed2c4ab0b96196e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 06:42:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 06:42:38</sys_created_on><sys_id>8971f4c9db6940101ed2c4ab0b96196f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Comments" display_value="Comments" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971f4c9db6940101ed2c4ab0b96196e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 06:42:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 06:42:38</sys_created_on><sys_id>0d71f4c9db6940101ed2c4ab0b96196f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Comments" display_value="Comments" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971f4c9db6940101ed2c4ab0b96196e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 06:42:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Comments</caption><header>false</header><name>x_423236_health_ca_doctor_info</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 06:42:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8971f4c9db6940101ed2c4ab0b96196e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Comments</sys_name><sys_overrides/><sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package><sys_policy/><sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope><sys_update_name>sys_ui_section_8971f4c9db6940101ed2c4ab0b96196e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 06:42:38</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>710978130</payload_hash>
+        <record_name>Doctor info</record_name>
+        <reverted_from/>
+        <source>29e99b24dba100101ed2c4ab0b9619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 06:42:38</sys_created_on>
+        <sys_id>0571f4c9db6940101ed2c4ab0b961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecfa578bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 06:42:38</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>8d71f4c94969401079638a9c25daf070</update_guid>
+        <update_guid_history>8d71f4c94969401079638a9c25daf070:710978130</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 09:18:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0113255ed0f642eeb8aa6ba482799341</sys_id>
+        <sys_metadata>8971f4c9db6940101ed2c4ab0b96196e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Comments</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_parent display_value="">314130c9db6940101ed2c4ab0b961978</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+        <sys_update_name>sys_ui_section_8971f4c9db6940101ed2c4ab0b96196e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_8971f4c9db6940101ed2c4ab0b96196e">0571f4c9db6940101ed2c4ab0b961971</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 09:18:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

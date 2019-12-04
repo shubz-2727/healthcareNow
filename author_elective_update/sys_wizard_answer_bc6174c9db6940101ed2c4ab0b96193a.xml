@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Doctor info</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Doctor info</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">00f7b7a4db0100101ed2c4ab0b9619a7</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 06:42:21</sys_created_on>
+        <sys_id>bc6174c9db6940101ed2c4ab0b96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Doctor info</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_update_name>sys_wizard_answer_bc6174c9db6940101ed2c4ab0b96193a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 06:42:21</sys_updated_on>
+        <table/>
+        <target_url>x_423236_health_ca_doctor_info.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+        <file_path/>
+        <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+        <instance_name>dev93413</instance_name>
+        <name>sys_wizard_answer_bc6174c9db6940101ed2c4ab0b96193a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Doctor info</answer><button_label/><dependent_value/><element/><name>Doctor info</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">00f7b7a4db0100101ed2c4ab0b9619a7</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 06:42:21</sys_created_on><sys_id>bc6174c9db6940101ed2c4ab0b96193a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Doctor info</sys_name><sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package><sys_policy/><sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope><sys_update_name>sys_wizard_answer_bc6174c9db6940101ed2c4ab0b96193a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 06:42:21</sys_updated_on><table/><target_url>x_423236_health_ca_doctor_info.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1818820477</payload_hash>
+        <record_name>Doctor info</record_name>
+        <reverted_from/>
+        <source>7f16c030db0100101ed2c4ab0b961995</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2019-11-08 12:23:26</sys_created_on>
+        <sys_id>6725d505db2d40101ed2c4ab0b961991</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>16e4af822300000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>2725d5055c2d40104c7f224b0ee6f691</update_guid>
+        <update_guid_history>2725d5055c2d40104c7f224b0ee6f691:1818820477</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 09:18:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>025f3a6a5a5c484c9667049177c26610</sys_id>
+        <sys_metadata>bc6174c9db6940101ed2c4ab0b96193a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Doctor info</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_parent display_value="Task">00f7b7a4db0100101ed2c4ab0b9619a7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_bc6174c9db6940101ed2c4ab0b96193a</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_bc6174c9db6940101ed2c4ab0b96193a">6725d505db2d40101ed2c4ab0b961991</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 09:18:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

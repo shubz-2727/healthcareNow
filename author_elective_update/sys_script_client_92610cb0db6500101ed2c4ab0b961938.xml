@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>on change facility choice , faclity section will change.</description>
+        <field>u_choice_3</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Facility hidden script</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	
+	alert("you have changed the facility field");
+	
+	
+	
+ if(newValue == 'ambulance'){
+	 
+	 g_form.setSectionDisplay('doctor_facility', false);
+	  g_form.setSectionDisplay('laboratory_facility', false);
+	 g_form.setSectionDisplay('ambulance_facility', true);
+	}
+		
+ if(newValue == 'laboratory'){
+	 
+	 g_form.setSectionDisplay('doctor_facility', false);
+	  g_form.setSectionDisplay('laboratory_facility', true);
+	 g_form.setSectionDisplay('ambulance_facility', false);;
+	}
+ 
+	if(newValue == 'doctor'){
+		 g_form.setSectionDisplay('doctor_facility', true);
+	  g_form.setSectionDisplay('laboratory_facility', false);
+	 g_form.setSectionDisplay('ambulance_facility', false);
+	}
+
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 08:50:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>92610cb0db6500101ed2c4ab0b961938</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Facility hidden script</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_update_name>sys_script_client_92610cb0db6500101ed2c4ab0b961938</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 09:53:27</sys_updated_on>
+        <table>x_423236_health_ca_registration_form</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+        <file_path/>
+        <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+        <instance_name>dev93413</instance_name>
+        <name>sys_script_client_92610cb0db6500101ed2c4ab0b961938</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;on change facility choice , faclity section will change.&lt;/description&gt;&lt;field&gt;u_choice_3&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Facility hidden script&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	
+	alert("you have changed the facility field");
+	
+	
+	
+ if(newValue == 'ambulance'){
+	 
+	 g_form.setSectionDisplay('doctor_facility', false);
+	  g_form.setSectionDisplay('laboratory_facility', false);
+	 g_form.setSectionDisplay('ambulance_facility', true);
+	}
+		
+ if(newValue == 'laboratory'){
+	 
+	 g_form.setSectionDisplay('doctor_facility', false);
+	  g_form.setSectionDisplay('laboratory_facility', true);
+	 g_form.setSectionDisplay('ambulance_facility', false);;
+	}
+ 
+	if(newValue == 'doctor'){
+		 g_form.setSectionDisplay('doctor_facility', true);
+	  g_form.setSectionDisplay('laboratory_facility', false);
+	 g_form.setSectionDisplay('ambulance_facility', false);
+	}
+
+   //Type appropriate comment here, and begin script below
+   
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-03 08:50:16&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;92610cb0db6500101ed2c4ab0b961938&lt;/sys_id&gt;&lt;sys_mod_count&gt;13&lt;/sys_mod_count&gt;&lt;sys_name&gt;Facility hidden script&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Health Care Management" source="x_423236_health_ca"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Health Care Management"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_92610cb0db6500101ed2c4ab0b961938&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-03 09:53:27&lt;/sys_updated_on&gt;&lt;table&gt;x_423236_health_ca_registration_form&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-68676401</payload_hash>
+        <record_name>Facility hidden script</record_name>
+        <reverted_from/>
+        <source>29e99b24dba100101ed2c4ab0b9619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 09:53:27</sys_created_on>
+        <sys_id>ae839c74dba500101ed2c4ab0b9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecb2dd0470000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 09:53:27</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>e6839c7429a5001030831d0bddb196f0</update_guid>
+        <update_guid_history>e6839c7429a5001030831d0bddb196f0:-68676401,a692d0342aa500100eaf9125564b3ca6:399540782,4151903488a50010b284227546758fef:-1772426159,e831503026a50010b72f91b4c507f300:1405877022,104fc4302aa50010e137aa9bf52fb156:-283234372,43ed8030e4a500109f167faebebee410:1213410713,27dd8030aba5001006bc0b86e4e63d0b:-303829495,379d4cbc35650010ead33f0db8a4323f:-1022752192,c0acccbcf0650010e2ace07a2e15af2e:-709429833,e6fb4c7c2d650010f00249ec522be75b:-271420330,c698ccb4226500106a49c525783ab871:-896039882,1d76ccb41f6500101d59fea13f7cd1bf:-271420330,4a458cb4fe65001000e7493ce8996c6e:-896039882,8515ccb03265001005413115c52a8841:1093338648</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 06:38:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>82c8a10707fb41679468e91e2e6ff581</sys_id>
+        <sys_metadata>92610cb0db6500101ed2c4ab0b961938</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facility hidden script</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_parent display_value="">f7afdfe8dba100101ed2c4ab0b961964</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+        <sys_update_name>sys_script_client_92610cb0db6500101ed2c4ab0b961938</sys_update_name>
+        <sys_update_version display_value="sys_script_client_92610cb0db6500101ed2c4ab0b961938">ae839c74dba500101ed2c4ab0b9619f0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 06:38:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_423236_health_ca_patient_diagnose_report</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 11:12:01</sys_created_on>
+        <sys_id>e18524f8dbe500101ed2c4ab0b9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_423236_health_ca_patient_diagnose_report</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_update_name>ua_table_licensing_config_e18524f8dbe500101ed2c4ab0b9619ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 11:12:01</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+        <file_path/>
+        <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+        <instance_name>dev93413</instance_name>
+        <name>ua_table_licensing_config_e18524f8dbe500101ed2c4ab0b9619ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_423236_health_ca_patient_diagnose_report</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 11:12:01</sys_created_on><sys_id>e18524f8dbe500101ed2c4ab0b9619ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_423236_health_ca_patient_diagnose_report</sys_name><sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package><sys_policy/><sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope><sys_update_name>ua_table_licensing_config_e18524f8dbe500101ed2c4ab0b9619ec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 11:12:01</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-2115073586</payload_hash>
+        <record_name>x_423236_health_ca_patient_diagnose_report</record_name>
+        <reverted_from/>
+        <source>29e99b24dba100101ed2c4ab0b9619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 11:12:01</sys_created_on>
+        <sys_id>2d8524f8dbe500101ed2c4ab0b9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecb75befd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 11:12:01</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>658524f825e50010bfc4d671badf6aed</update_guid>
+        <update_guid_history>658524f825e50010bfc4d671badf6aed:-2115073586</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 06:38:37</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>bde13ca9a0c14180a0533624ba5d2400</sys_id>
+        <sys_metadata>e18524f8dbe500101ed2c4ab0b9619ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_423236_health_ca_patient_diagnose_report</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_e18524f8dbe500101ed2c4ab0b9619ec</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_e18524f8dbe500101ed2c4ab0b9619ec">2d8524f8dbe500101ed2c4ab0b9619ed</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 06:38:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
