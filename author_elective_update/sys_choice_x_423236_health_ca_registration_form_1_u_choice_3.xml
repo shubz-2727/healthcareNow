@@ -1,77 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_3" table="x_423236_health_ca_registration_form_1" version="3">
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_3</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Accident</label>
-            <language>en</language>
-            <name>x_423236_health_ca_registration_form_1</name>
-            <sequence>0</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-04 07:01:33</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>56c5f801dba940101ed2c4ab0b96199b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-04 07:01:33</sys_updated_on>
-            <value>accident</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_3</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Serious</label>
-            <language>en</language>
-            <name>x_423236_health_ca_registration_form_1</name>
-            <sequence>1</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-04 07:01:33</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>1ac5f801dba940101ed2c4ab0b96199d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-04 07:01:33</sys_updated_on>
-            <value>serious</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_3</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Moderate</label>
-            <language>en</language>
-            <name>x_423236_health_ca_registration_form_1</name>
-            <sequence>2</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-04 07:01:33</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>d6c5f801dba940101ed2c4ab0b96199f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-04 07:01:33</sys_updated_on>
-            <value>moderate</value>
-        </sys_choice>
-        <sys_choice_set action="INSERT_OR_UPDATE">
+    <sys_choice action="DELETE" field="u_choice_3" table="x_423236_health_ca_registration_form_1" version="3">
+        <sys_choice_set action="DELETE">
             <element>u_choice_3</element>
             <name>x_423236_health_ca_registration_form_1</name>
-            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_class_name/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-04 07:01:33</sys_created_on>
-            <sys_id>dec5f801dba940101ed2c4ab0b96199b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_created_on/>
+            <sys_id>e578314edb6d40101ed2c4ab0b96197b</sys_id>
+            <sys_mod_count/>
             <sys_name>u_choice_3</sys_name>
             <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
             <sys_policy/>
             <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
             <sys_update_name>sys_choice_x_423236_health_ca_registration_form_1_u_choice_3</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-04 07:01:33</sys_updated_on>
+            <sys_updated_on>2019-12-07 15:10:53</sys_updated_on>
         </sys_choice_set>
+        <sys_update_version action="INSERT_OR_UPDATE">
+            <action>DELETE</action>
+            <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+            <file_path/>
+            <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+            <instance_name>dev93413</instance_name>
+            <name>sys_choice_x_423236_health_ca_registration_form_1_u_choice_3</name>
+            <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="DELETE" field="u_choice_3" table="x_423236_health_ca_registration_form_1" version="3"&gt;&lt;sys_choice_set action="DELETE"&gt;&lt;element&gt;u_choice_3&lt;/element&gt;&lt;name&gt;x_423236_health_ca_registration_form_1&lt;/name&gt;&lt;sys_class_name/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;dec5f801dba940101ed2c4ab0b96199b&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_name&gt;u_choice_3&lt;/sys_name&gt;&lt;sys_package display_value="Health Care Management" source="x_423236_health_ca"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Health Care Management"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_choice_x_423236_health_ca_registration_form_1_u_choice_3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-07 12:16:42&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;sys_update_version action="INSERT_OR_UPDATE"&gt;&lt;action&gt;INSERT_OR_UPDATE&lt;/action&gt;&lt;application display_value="Health Care Management"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/application&gt;&lt;file_path/&gt;&lt;instance_id&gt;0dfc6f02db7bbb008aea21c4059619eb&lt;/instance_id&gt;&lt;instance_name&gt;dev93413&lt;/instance_name&gt;&lt;name&gt;sys_choice_x_423236_health_ca_registration_form_1_u_choice_3&lt;/name&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="INSERT_OR_UPDATE" field="u_choice_3" table="x_423236_health_ca_registration_form_1" version="3"&gt;&lt;sys_choice action="INSERT_OR_UPDATE"&gt;&lt;dependent_value/&gt;&lt;element&gt;u_choice_3&lt;/element&gt;&lt;hint/&gt;&lt;inactive&gt;false&lt;/inactive&gt;&lt;label&gt;Moderate&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;x_423236_health_ca_registration_form_1&lt;/name&gt;&lt;sequence&gt;2&lt;/sequence&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-04 07:01:33&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;d6c5f801dba940101ed2c4ab0b96199f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-04 07:01:33&lt;/sys_updated_on&gt;&lt;value&gt;moderate&lt;/value&gt;&lt;/sys_choice&gt;&lt;sys_choice_set action="INSERT_OR_UPDATE"&gt;&lt;element&gt;u_choice_3&lt;/element&gt;&lt;name&gt;x_423236_health_ca_registration_form_1&lt;/name&gt;&lt;sys_class_name&gt;sys_choice_set&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-04 07:01:33&lt;/sys_created_on&gt;&lt;sys_id&gt;dec5f801dba940101ed2c4ab0b96199b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_choice_3&lt;/sys_name&gt;&lt;sys_package display_value="Health Care Management" source="x_423236_health_ca"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Health Care Management"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_choice_x_423236_health_ca_registration_form_1_u_choice_3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-04 07:01:33&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;]]&gt;&lt;/payload&gt;&lt;payload_hash&gt;-176357765&lt;/payload_hash&gt;&lt;record_name&gt;Task.u_choice_3&lt;/record_name&gt;&lt;reverted_from/&gt;&lt;source&gt;29e99b24dba100101ed2c4ab0b9619c5&lt;/source&gt;&lt;source_table&gt;sys_update_set&lt;/source_table&gt;&lt;state&gt;current&lt;/state&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-07 12:16:42&lt;/sys_created_on&gt;&lt;sys_id&gt;bbaa514adbe940101ed2c4ab0b9619cd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_recorded_at&gt;16ee04a65ae0000001&lt;/sys_recorded_at&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-07 12:16:42&lt;/sys_updated_on&gt;&lt;type&gt;Choice list&lt;/type&gt;&lt;update_guid&gt;f3aa514a92e940109965c912312883cd&lt;/update_guid&gt;&lt;update_guid_history&gt;f3aa514a92e940109965c912312883cd:-176357765,f7aa514a2fe9401003c66be853406ec9:1798160499,16c5f801c7a940109c153b73795c9ea2:-1742653320&lt;/update_guid_history&gt;&lt;/sys_update_version&gt;&lt;sys_metadata_delete action="INSERT_OR_UPDATE"&gt;&lt;sys_audit_delete/&gt;&lt;sys_class_name&gt;sys_metadata_delete&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-07 12:16:42&lt;/sys_created_on&gt;&lt;sys_db_object display_value="" name="sys_choice_set"&gt;sys_choice_set&lt;/sys_db_object&gt;&lt;sys_id&gt;dec5f801dba940101ed2c4ab0b96199b&lt;/sys_id&gt;&lt;sys_metadata&gt;dec5f801dba940101ed2c4ab0b96199b&lt;/sys_metadata&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_choice_3&lt;/sys_name&gt;&lt;sys_package display_value="Health Care Management" source="x_423236_health_ca"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_package&gt;&lt;sys_parent/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Health Care Management"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_scope&gt;&lt;sys_scope_delete display_value=""&gt;728bf734473641d996bc6d44c4656d71&lt;/sys_scope_delete&gt;&lt;sys_update_name&gt;sys_choice_x_423236_health_ca_registration_form_1_u_choice_3&lt;/sys_update_name&gt;&lt;sys_update_version display_value="sys_choice_x_423236_health_ca_registration_form_1_u_choice_3"&gt;bbaa514adbe940101ed2c4ab0b9619cd&lt;/sys_update_version&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-07 12:16:42&lt;/sys_updated_on&gt;&lt;/sys_metadata_delete&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;</payload>
+            <payload_hash>-350671601</payload_hash>
+            <record_name>Task.u_choice_3</record_name>
+            <reverted_from/>
+            <source>29e99b24dba100101ed2c4ab0b9619c5</source>
+            <source_table>sys_update_set</source_table>
+            <state>previous</state>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-07 12:16:42</sys_created_on>
+            <sys_id>f7aa514adbe940101ed2c4ab0b9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_recorded_at>16ee04a65e10000001</sys_recorded_at>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-07 12:16:42</sys_updated_on>
+            <type>Choice list</type>
+            <update_guid>33aa514a14e94010d8144ebbd28bdbd2</update_guid>
+            <update_guid_history>33aa514a14e94010d8144ebbd28bdbd2:-350671601,f3aa514a92e940109965c912312883cd:-176357765,f7aa514a2fe9401003c66be853406ec9:1798160499,16c5f801c7a940109c153b73795c9ea2:-1742653320</update_guid_history>
+        </sys_update_version>
+        <sys_metadata_delete action="INSERT_OR_UPDATE">
+            <sys_audit_delete/>
+            <sys_class_name>sys_metadata_delete</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-07 14:27:03</sys_created_on>
+            <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+            <sys_id>e578314edb6d40101ed2c4ab0b96197b</sys_id>
+            <sys_metadata>e578314edb6d40101ed2c4ab0b96197b</sys_metadata>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_3</sys_name>
+            <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+            <sys_parent/>
+            <sys_policy/>
+            <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+            <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+            <sys_update_name>sys_choice_x_423236_health_ca_registration_form_1_u_choice_3</sys_update_name>
+            <sys_update_version display_value="sys_choice_x_423236_health_ca_registration_form_1_u_choice_3">f7aa514adbe940101ed2c4ab0b9619d2</sys_update_version>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-07 14:27:03</sys_updated_on>
+        </sys_metadata_delete>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application>
+        <file_path/>
+        <instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id>
+        <instance_name>dev93413</instance_name>
+        <name>sys_choice_x_423236_health_ca_registration_form_1_u_choice_3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_choice_3" table="x_423236_health_ca_registration_form_1" version="3"><sys_choice_set action="DELETE"><element>u_choice_3</element><name>x_423236_health_ca_registration_form_1</name><sys_class_name/><sys_created_by>admin</sys_created_by><sys_created_on/><sys_id>e578314edb6d40101ed2c4ab0b96197b</sys_id><sys_mod_count/><sys_name>u_choice_3</sys_name><sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package><sys_policy/><sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope><sys_update_name>sys_choice_x_423236_health_ca_registration_form_1_u_choice_3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-07 15:10:53</sys_updated_on></sys_choice_set><sys_update_version action="INSERT_OR_UPDATE"><action>DELETE</action><application display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</application><file_path/><instance_id>0dfc6f02db7bbb008aea21c4059619eb</instance_id><instance_name>dev93413</instance_name><name>sys_choice_x_423236_health_ca_registration_form_1_u_choice_3</name><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="DELETE" field="u_choice_3" table="x_423236_health_ca_registration_form_1" version="3"&gt;&lt;sys_choice_set action="DELETE"&gt;&lt;element&gt;u_choice_3&lt;/element&gt;&lt;name&gt;x_423236_health_ca_registration_form_1&lt;/name&gt;&lt;sys_class_name/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;dec5f801dba940101ed2c4ab0b96199b&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_name&gt;u_choice_3&lt;/sys_name&gt;&lt;sys_package display_value="Health Care Management" source="x_423236_health_ca"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Health Care Management"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_choice_x_423236_health_ca_registration_form_1_u_choice_3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-07 12:16:42&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;sys_update_version action="INSERT_OR_UPDATE"&gt;&lt;action&gt;INSERT_OR_UPDATE&lt;/action&gt;&lt;application display_value="Health Care Management"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/application&gt;&lt;file_path/&gt;&lt;instance_id&gt;0dfc6f02db7bbb008aea21c4059619eb&lt;/instance_id&gt;&lt;instance_name&gt;dev93413&lt;/instance_name&gt;&lt;name&gt;sys_choice_x_423236_health_ca_registration_form_1_u_choice_3&lt;/name&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="INSERT_OR_UPDATE" field="u_choice_3" table="x_423236_health_ca_registration_form_1" version="3"&gt;&lt;sys_choice action="INSERT_OR_UPDATE"&gt;&lt;dependent_value/&gt;&lt;element&gt;u_choice_3&lt;/element&gt;&lt;hint/&gt;&lt;inactive&gt;false&lt;/inactive&gt;&lt;label&gt;Moderate&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;x_423236_health_ca_registration_form_1&lt;/name&gt;&lt;sequence&gt;2&lt;/sequence&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-04 07:01:33&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;d6c5f801dba940101ed2c4ab0b96199f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-04 07:01:33&lt;/sys_updated_on&gt;&lt;value&gt;moderate&lt;/value&gt;&lt;/sys_choice&gt;&lt;sys_choice_set action="INSERT_OR_UPDATE"&gt;&lt;element&gt;u_choice_3&lt;/element&gt;&lt;name&gt;x_423236_health_ca_registration_form_1&lt;/name&gt;&lt;sys_class_name&gt;sys_choice_set&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-04 07:01:33&lt;/sys_created_on&gt;&lt;sys_id&gt;dec5f801dba940101ed2c4ab0b96199b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_choice_3&lt;/sys_name&gt;&lt;sys_package display_value="Health Care Management" source="x_423236_health_ca"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Health Care Management"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_choice_x_423236_health_ca_registration_form_1_u_choice_3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-04 07:01:33&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;]]&gt;&lt;/payload&gt;&lt;payload_hash&gt;-176357765&lt;/payload_hash&gt;&lt;record_name&gt;Task.u_choice_3&lt;/record_name&gt;&lt;reverted_from/&gt;&lt;source&gt;29e99b24dba100101ed2c4ab0b9619c5&lt;/source&gt;&lt;source_table&gt;sys_update_set&lt;/source_table&gt;&lt;state&gt;current&lt;/state&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-07 12:16:42&lt;/sys_created_on&gt;&lt;sys_id&gt;bbaa514adbe940101ed2c4ab0b9619cd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_recorded_at&gt;16ee04a65ae0000001&lt;/sys_recorded_at&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-07 12:16:42&lt;/sys_updated_on&gt;&lt;type&gt;Choice list&lt;/type&gt;&lt;update_guid&gt;f3aa514a92e940109965c912312883cd&lt;/update_guid&gt;&lt;update_guid_history&gt;f3aa514a92e940109965c912312883cd:-176357765,f7aa514a2fe9401003c66be853406ec9:1798160499,16c5f801c7a940109c153b73795c9ea2:-1742653320&lt;/update_guid_history&gt;&lt;/sys_update_version&gt;&lt;sys_metadata_delete action="INSERT_OR_UPDATE"&gt;&lt;sys_audit_delete/&gt;&lt;sys_class_name&gt;sys_metadata_delete&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-07 12:16:42&lt;/sys_created_on&gt;&lt;sys_db_object display_value="" name="sys_choice_set"&gt;sys_choice_set&lt;/sys_db_object&gt;&lt;sys_id&gt;dec5f801dba940101ed2c4ab0b96199b&lt;/sys_id&gt;&lt;sys_metadata&gt;dec5f801dba940101ed2c4ab0b96199b&lt;/sys_metadata&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_choice_3&lt;/sys_name&gt;&lt;sys_package display_value="Health Care Management" source="x_423236_health_ca"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_package&gt;&lt;sys_parent/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Health Care Management"&gt;25e99b24dba100101ed2c4ab0b9619c3&lt;/sys_scope&gt;&lt;sys_scope_delete display_value=""&gt;728bf734473641d996bc6d44c4656d71&lt;/sys_scope_delete&gt;&lt;sys_update_name&gt;sys_choice_x_423236_health_ca_registration_form_1_u_choice_3&lt;/sys_update_name&gt;&lt;sys_update_version display_value="sys_choice_x_423236_health_ca_registration_form_1_u_choice_3"&gt;bbaa514adbe940101ed2c4ab0b9619cd&lt;/sys_update_version&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-07 12:16:42&lt;/sys_updated_on&gt;&lt;/sys_metadata_delete&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;</payload><payload_hash>-350671601</payload_hash><record_name>Task.u_choice_3</record_name><reverted_from/><source>29e99b24dba100101ed2c4ab0b9619c5</source><source_table>sys_update_set</source_table><state>previous</state><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-07 12:16:42</sys_created_on><sys_id>f7aa514adbe940101ed2c4ab0b9619d2</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16ee04a65e10000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-07 12:16:42</sys_updated_on><type>Choice list</type><update_guid>33aa514a14e94010d8144ebbd28bdbd2</update_guid><update_guid_history>33aa514a14e94010d8144ebbd28bdbd2:-350671601,f3aa514a92e940109965c912312883cd:-176357765,f7aa514a2fe9401003c66be853406ec9:1798160499,16c5f801c7a940109c153b73795c9ea2:-1742653320</update_guid_history></sys_update_version><sys_metadata_delete action="INSERT_OR_UPDATE"><sys_audit_delete/><sys_class_name>sys_metadata_delete</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-07 14:27:03</sys_created_on><sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object><sys_id>e578314edb6d40101ed2c4ab0b96197b</sys_id><sys_metadata>e578314edb6d40101ed2c4ab0b96197b</sys_metadata><sys_mod_count>0</sys_mod_count><sys_name>u_choice_3</sys_name><sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package><sys_parent/><sys_policy/><sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope><sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete><sys_update_name>sys_choice_x_423236_health_ca_registration_form_1_u_choice_3</sys_update_name><sys_update_version display_value="sys_choice_x_423236_health_ca_registration_form_1_u_choice_3">f7aa514adbe940101ed2c4ab0b9619d2</sys_update_version><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-07 14:27:03</sys_updated_on></sys_metadata_delete></sys_choice></record_update>]]></payload>
+        <payload_hash>-1323418396</payload_hash>
+        <record_name>Task.u_choice_3</record_name>
+        <reverted_from/>
+        <source>6e78f1cadb6d40101ed2c4ab0b96192a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-07 15:10:53</sys_created_on>
+        <sys_id>db820a8adbad40101ed2c4ab0b961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee0e9dd220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-07 15:10:53</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>17820a8ad8ad40107a59b69bf5401298</update_guid>
+        <update_guid_history>17820a8ad8ad40107a59b69bf5401298:-1323418396,db820a8a3bad40105e35759d43dc5093:-176357765,13820a8a60ad401016f41c2e2ce05190:1798160499,1588f54e156d4010711fcd004ea16eac:0,33aa514a14e94010d8144ebbd28bdbd2:-350671601,f3aa514a92e940109965c912312883cd:-176357765,f7aa514a2fe9401003c66be853406ec9:1798160499,16c5f801c7a940109c153b73795c9ea2:-1742653320</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-07 15:11:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>34a242cadbad40101ed2c4ab0b96198c</sys_id>
+        <sys_metadata>34a242cadbad40101ed2c4ab0b96198c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_3</sys_name>
+        <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+        <sys_scope_delete display_value="">728bf734473641d996bc6d44c4656d71</sys_scope_delete>
+        <sys_update_name>sys_choice_x_423236_health_ca_registration_form_1_u_choice_3</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_423236_health_ca_registration_form_1_u_choice_3">db820a8adbad40101ed2c4ab0b961998</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-07 15:11:30</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>

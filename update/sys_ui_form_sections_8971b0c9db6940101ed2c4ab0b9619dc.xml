@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8971b0c9db6940101ed2c4ab0b9619dc" sys_domain="global" table="x_423236_health_ca_doctor_info" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 06:49:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2413744ddb6940101ed2c4ab0b961983</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_doctor_info" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971b0c9db6940101ed2c4ab0b9619dc</sys_ui_form>
+            <sys_ui_section caption="Doctor's detail" display_value="Doctor's detail" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">6c13744ddb6940101ed2c4ab0b961942</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 06:49:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 06:42:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c571f4c9db6940101ed2c4ab0b961971</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_doctor_info" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971b0c9db6940101ed2c4ab0b9619dc</sys_ui_form>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971f4c9db6940101ed2c4ab0b96196e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 06:49:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-07 15:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39b2cacadbad40101ed2c4ab0b961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_doctor_info" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971b0c9db6940101ed2c4ab0b9619dc</sys_ui_form>
+            <sys_ui_section caption="Laboratory" display_value="Laboratory" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">4171b0c9db6940101ed2c4ab0b9619e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-07 15:11:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-07 15:11:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8eb2cacadbad40101ed2c4ab0b9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_doctor_info" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971b0c9db6940101ed2c4ab0b9619dc</sys_ui_form>
+            <sys_ui_section caption="Patient Detail" display_value="Patient Detail" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8d71b0c9db6940101ed2c4ab0b9619de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-07 15:11:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-07 15:11:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46b2cacadbad40101ed2c4ab0b9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_doctor_info" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971b0c9db6940101ed2c4ab0b9619dc</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">b4ff7f20db6500101ed2c4ab0b961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-07 15:11:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-07 15:11:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02b20ecadbad40101ed2c4ab0b961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_423236_health_ca_doctor_info" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">8971b0c9db6940101ed2c4ab0b9619dc</sys_ui_form>
+            <sys_ui_section caption="Doctor facility" display_value="Doctor facility" name="x_423236_health_ca_doctor_info" sys_domain="global" view="Default view">c571b0c9db6940101ed2c4ab0b9619e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-07 15:11:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_423236_health_ca_doctor_info</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 06:42:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8971b0c9db6940101ed2c4ab0b9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_423236_health_ca_doctor_info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Health Care Management" source="x_423236_health_ca">25e99b24dba100101ed2c4ab0b9619c3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health Care Management">25e99b24dba100101ed2c4ab0b9619c3</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8971b0c9db6940101ed2c4ab0b9619dc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 06:42:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
